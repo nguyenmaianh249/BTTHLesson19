@@ -1,0 +1,48 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#all {
+    width: 960px;
+    min-height: 400px;
+    background: #ff0000;
+    margin: auto;
+    /*giup cho min-height có tac dung voi the div ;*/
+}
+
+header {
+    width: 900px;
+    height: 100px;
+    background: #61ffab;
+    margin: 10px;
+    border: 5px solid rgb(250, 250, 137);
+}
+
+nav {
+    width: 900px;
+    height: 70px;
+    background: #61ffab;
+    margin: 10px;
+    border: 5px solid rgb(250, 250, 137);
+    margin-top: 20px;
+}
+
+#content {
+    width: 900px;
+    height: 70px;
+    background: #61ffab;
+    margin: 10px;
+    border: 5px solid rgb(250, 250, 137);
+    margin-top: 20px;
+}
+
+footer {
+    width: 900px;
+    height: 70px;
+    background: #61ffab;
+    margin: 10px;
+    border: 5px solid rgb(250, 250, 137);
+    margin-top: 20px;
+}
